@@ -1,5 +1,5 @@
-<img src="avatar.jpg" style="width: 150px;" />
-# Emanuel de Souza <img src="build_passing.png" style="width: 15%" />
+<img src="avatar.jpg" width="190" height="190">
+# Emanuel de Souza <img src="build_passing.png" width="70" height="15">
 Software Engineer in love with design patterns, test driven development, process automation and sci-fi movies. Nonstop learner and problem solver with hands-on style.
 
 ## About me
