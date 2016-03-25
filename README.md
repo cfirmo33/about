@@ -1,5 +1,5 @@
 ![Avatar](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/2b3/34e/164de65.jpg =150x)
-# Emanuel de Souza ![status](build_passing.png =100x)
+# Emanuel de Souza ![status](build_passing.png)
 Software Engineer in love with design patterns, test driven development, process automation and sci-fi movies. Nonstop learner and problem solver with hands-on style.
 
 ## About me
