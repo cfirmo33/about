@@ -9,6 +9,7 @@ Fullstack Developer, lives in Florianópolis (Brazilian Sillicon Valley).
 * Email: [emanuelcds@gmail.com](mailto:emanuelcds@gmail.com)
 * Github: [github.com/emanuelcds](http://github.com/emanuelcds)
 * LinkedIn: [linkedin.com/in/emanueldesouza](https://www.linkedin.com/in/emanueldesouza)
+* Twitter: [@emanuelcds](http://twitter.com/emanuelcds)
 
 ## Programming Skills
 * Javascript (High Skilled): AngularJS, Angular-UI, ngResource, NodeJS, Express, socket.io, Mongoose, Jasmine, Mocha and Karma (and a little bit of WebRTC API).
