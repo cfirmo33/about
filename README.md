@@ -18,6 +18,7 @@ Fullstack Developer, lives in Florianópolis (Brazilian Sillicon Valley).
 * C/C++ (High Skilled): SDL, Boost, Qt, GTest with CMake Projects.
 * Ruby (Average): Ruby on Rails 3, Sinatra, MongoMapper and Padrino. (Some experiments with rubinius and FFI)
 * Java (Average): Servlets, JSP, Hibernate, OpenJPA, Jersey, Jongo, JUnit, Swing, Ant and Maven.
+* PHP (Average): Composer
 
 ## Additional Knowledge
 * Database Modeling and Tunning in PostgreSQL and MySQL
@@ -25,3 +26,24 @@ Fullstack Developer, lives in Florianópolis (Brazilian Sillicon Valley).
 * Continuous Integration with CircleCI, Jenkins and TeamCity
 * Lynckia Licode (C++ WebRTC Server and JS API)
 * Game Development with SDL, DirectX, OpenGL, WebGL, Unity, Godot, PyGame and Unreal Development Kit.
+* Infrastructure Scaling with Amazon AWS: RDS, EC2, Route53, SNS, SES, S3, ELB and AutoScale Groups.
+
+## Projects
+
+### Contentools Platform
+> All in one content marketing platform that delivers the best experience in content production, custom workflows, content production, team management, custom roles
+> and publishing automation.  
+
+Tech Stack: AngularJS, Bootstrap, Django, Tastypie and Multi-Tenant achitecture using PostgreSQL Schemas.
+
+### Konviva LMS
+> Learning management system built by iLog to assist corporate universities and online courses in brazilian market. Developed the conference room system for online realtime chat and presentations.  
+
+Tech Stack: Javascript, Java and C++ with AngularJS, Bootstrap, NodeJS, Express, Socket.IO, Lynckia Licode, Mongoose and SpringMVC.
+[Konviva LMS](http://konviva.com.br)
+
+### Shake and Stir
+> Game and Server made for SideGames Ltd, an Israel based company with business in USA Gaming market.  
+
+TechStack: Javascript and PHP with WebGL Shaders, PlayCanvas Framework, SlimFramework, PDO and MySQL.
+[Shake and Stir Lobby](http://www.sidegamesltd.com/games/lobby.php)
