@@ -34,7 +34,8 @@ Fullstack Developer, lives in Florianópolis (Brazilian Sillicon Valley).
 > All in one content marketing platform that delivers the best experience in content production, custom workflows, content production, team management, custom roles
 > and publishing automation.  
 
-Tech Stack: AngularJS, Bootstrap, Django, Tastypie and Multi-Tenant achitecture using PostgreSQL Schemas.
+Tech Stack: AngularJS, Bootstrap, Django, Tastypie and Multi-Tenant achitecture using PostgreSQL Schemas.  
+[Contentools Platform](https://go.contentools.com/signup)
 
 ### Konviva LMS
 > Learning management system built by iLog to assist corporate universities and online courses in brazilian market. Developed the conference room system for online realtime chat and presentations.  
