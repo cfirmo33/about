@@ -39,11 +39,11 @@ Tech Stack: AngularJS, Bootstrap, Django, Tastypie and Multi-Tenant achitecture 
 ### Konviva LMS
 > Learning management system built by iLog to assist corporate universities and online courses in brazilian market. Developed the conference room system for online realtime chat and presentations.  
 
-Tech Stack: Javascript, Java and C++ with AngularJS, Bootstrap, NodeJS, Express, Socket.IO, Lynckia Licode, Mongoose and SpringMVC.
+Tech Stack: Javascript, Java and C++ with AngularJS, Bootstrap, NodeJS, Express, Socket.IO, Lynckia Licode, Mongoose and SpringMVC.  
 [Konviva LMS](http://konviva.com.br)
 
 ### Shake and Stir
 > Game and Server made for SideGames Ltd, an Israel based company with business in USA Gaming market.  
 
-TechStack: Javascript and PHP with WebGL Shaders, PlayCanvas Framework, SlimFramework, PDO and MySQL.
+TechStack: Javascript and PHP with WebGL Shaders, PlayCanvas Framework, SlimFramework, PDO and MySQL.  
 [Shake and Stir Lobby](http://www.sidegamesltd.com/games/lobby.php)
