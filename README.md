@@ -67,6 +67,6 @@ TechStack: Javascript and PHP with WebGL Shaders, PlayCanvas Framework, SlimFram
 > one bingo game, a point of sale and the back office for software distributors.  
 
 TechStack: ActionScript 3 and Starling for the games, Objecte-C and Cocoa Touch for Point of Sale software, Ruby and Sinatra with some FFI calls in C and MongoDB for the API Endpoints and 
-Ruby on Rails 3 with PostgreSQL and Devise for Software Distributor's Web Panel. Server scaling and task automation with Python, Fabric, Shellscript and Puppet.
+Ruby on Rails 3 with PostgreSQL and Devise for Software Distributor's Web Panel. Server scaling and task automation with Python, Fabric, Shellscript and Puppet.  
 [NorthStar Gaming FB Page](https://www.facebook.com/nstargaming/)  
 
