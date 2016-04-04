@@ -43,7 +43,7 @@ Tech Stack: AngularJS, Bootstrap, Django, Tastypie and Multi-Tenant achitecture 
 ### Konviva LMS
 > Learning management system built by iLog to assist corporate universities and online courses in brazilian market. Developed the conference room system for online realtime chat and presentations.  
 
-Tech Stack: Javascript, Java and C++ with AngularJS, Bootstrap, NodeJS, Express, Socket.IO, Lynckia Licode, Mongoose and SpringMVC.  
+Tech Stack: Javascript, Java and C++ with AngularJS, Bootstrap, NodeJS, Express, Socket.IO, Lynckia Licode, WebRTC API, Mongoose and SpringMVC.  
 [Konviva LMS](http://konviva.com.br)
 
 
