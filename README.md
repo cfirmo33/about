@@ -50,7 +50,7 @@ Tech Stack: Javascript, Java and C++ with AngularJS, Bootstrap, NodeJS, Express,
 ### Email Manager
 > Email marketing and massive mailing dispatcher SaaS platform. Currently called Maildocker.
 
-Tech Stack: AngularJS, Django, Tastypie and Django-Celery with RabbitMQ for asynchronous email delivery.
+Tech Stack: AngularJS, Django, Tastypie and Django-Celery with RabbitMQ for asynchronous email delivery.  
 [Maildocker](http://maildocker.com)
 
 
