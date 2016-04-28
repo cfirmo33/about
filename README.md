@@ -54,7 +54,7 @@ Tech Stack: AngularJS, Bootstrap, Django, Tastypie and Multi-Tenant achitecture 
 [Contentools Platform](https://go.contentools.com/signup)
 
 ### Marimba Gaming Pull-Tabs System
-Contractor: Self-Employed (Co-founder)
+Contractor: Self-Employed (Co-founder)  
 > Video Lottery system developed aiming the Alaska, Virginia and Minnesota markets. Developed game math sheets (probabilitics), games, game lobby, Point of Sale and REST API.  
 
 Tech Stack: Godot Engine for the Games, Python with SciPy and Google Spreadsheets for Game Mathematics and Probabilistics, Python with Django and Restless for Point of Sale and Game REST API,
@@ -65,7 +65,7 @@ AngularJS + Ionic + Apache Cordova for Point of Sale cross mobile and web versio
 [HTML5 Games](http://comming.soon.html5.version)  
 
 ### GameScope
-Contractor: Self-Employed (Co-founder)
+Contractor: Self-Employed (Co-founder)  
 > Besides it is a proof of concept in progress, the system targets to capture sensitive data of
 user behavior, monitoring metrics and screen actions, assisting decision making in games for 
 Online casinos, VLT and Class II games.  
@@ -76,7 +76,7 @@ on standalone games, AngularJS with ngMaterial for the metrics and statistics pa
 
 
 ### Konviva LMS
-Contractor: [iLog Technology](http://ilog.com.br)
+Contractor: [iLog Technology](http://ilog.com.br) (Senior Software Engineer)  
 > Learning management system built by iLog to assist corporate universities and online courses in brazilian market. Developed the conference room system for online realtime chat and presentations.  
 
 Tech Stack: Javascript, Java and C++ with AngularJS, Bootstrap, NodeJS, Express, Socket.IO, Lynckia Licode, WebRTC API, Mongoose and SpringMVC.  
@@ -84,7 +84,7 @@ Tech Stack: Javascript, Java and C++ with AngularJS, Bootstrap, NodeJS, Express,
 
 
 ### Email Manager
-Contractor: [eCentry Technologies](http://ecentry.com.br)
+Contractor: [eCentry Technologies](http://ecentry.com.br) (Technical Lead)  
 > Email marketing and massive mailing dispatcher SaaS platform. Currently called Maildocker.
 
 Tech Stack: AngularJS, Django, Tastypie and Django-Celery with RabbitMQ for asynchronous email delivery.  
@@ -92,7 +92,7 @@ Tech Stack: AngularJS, Django, Tastypie and Django-Celery with RabbitMQ for asyn
 
 
 ### Shake and Stir
-Contractor: [Side Games Ltd](http://sidegamesltd.com)  
+Contractor: [Side Games Ltd](http://sidegamesltd.com) (Freelancer Software Developer)  
 > Game and Server made for SideGames Ltd, an Israel based company with business in USA Gaming market.  
 
 TechStack: Javascript and PHP with WebGL Shaders, PlayCanvas Framework, SlimFramework, PDO and MySQL.  
@@ -100,7 +100,7 @@ TechStack: Javascript and PHP with WebGL Shaders, PlayCanvas Framework, SlimFram
 
 
 ### NorthStar Gaming Platform
-Contractor: [Vesta Incubator](https://vestaincubator.com)  
+Contractor: [Vesta Incubator](https://vestaincubator.com) (Managing Director of Platform)
 > VLT platform for Minnesota. Requirements extracted from Gambling Comission Board regulations.
 > Developed a set of tools to operate Electronic Linked Bingos and Electronic Pull Tabs, including 
 > one bingo game, a point of sale and the back office for software distributors.  
@@ -111,7 +111,7 @@ Ruby on Rails 3 with PostgreSQL and Devise for Software Distributor's Web Panel.
 
 
 ### Halo and Frontier Platforms
-Contractor: [Vesta Incubator](http://vestaincubator.com)  
+Contractor: [Vesta Incubator](http://vestaincubator.com) (Managing Director of Platform)
 > Sweepstakes and Class III Casino Platforms for Tampa County, North Carolina, Florida and LATAM markets.
 
 TechStack: Proprietary engine developed in C++ with OpenGL/OpenAL and embedded Lua, GameServer
@@ -123,7 +123,7 @@ over Linux kernel and Ruby on Rails for NOC and Web Reporting panels.
 
 
 ### EXOS - The Experience Operating System
-Contractor: [Sábia Experience](http://sabiax.com.br)  
+Contractor: [Sábia Experience](http://sabiax.com.br) (Analyst Developer)  
 > Software Development Kit to create games and interactive experiences using javascript, flash, C# and
 python running over EXOS system (developed by Sabia Experience).  
 
