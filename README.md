@@ -12,87 +12,60 @@ Fullstack Developer, lives in Florianópolis (Brazilian Sillicon Valley).
 * Twitter: [@emanuelcds](http://twitter.com/emanuelcds)
 
 ## Programming Skills
-* Javascript (High Skilled): AngularJS, Angular-UI, ngResource, NodeJS, Express, socket.io, Mongoose, Jasmine, Mocha and Karma (and a little bit of WebRTC API).
-* Python (High Skilled): Django, Flask, Tastypie, Tornado, Celery, Nose, Fabric and SCons.
-* Shellscript (High Skilled).
-* C/C++ (High Skilled): SDL, Boost, Qt, GTest with CMake Projects. Embedding Python with libboost.python.
-* Ruby (Average): Ruby on Rails 3, Sinatra, MongoMapper and Padrino. (Some experiments with rubinius and FFI)
-* Java (Average): Servlets, JSP, Hibernate, OpenJPA, Jersey, Jongo, JUnit, Swing, Ant and Maven.
-* PHP (Average): Composer, PDO, SlimFramework.
+* Python with Django, Flask, Tastypie, Tornado, Celery, Nose, Fabric and SCons.  
+* C/C++ with Boost, Qt, GTest with CMake Projects.
+* Javascript with AngularJS, Angular-UI, Ionic Framework, NodeJS, Express, socket.io, Mongoose, Jasmine, Mocha and Karma.  
+* Shellscript lover boy :)
 
 ## Additional Knowledge
 * Database Modeling and Tunning in PostgreSQL and MySQL
 * Sharding and Replica Sets with MongoDB
 * Continuous Integration with CircleCI, Jenkins and TeamCity
-* Lynckia Licode (C++ WebRTC Server and JS API)
-* Game Development with SDL, DirectX, OpenGL, WebGL, Unity, Godot, PyGame and Unreal Development Kit.
-* Infrastructure Scaling with Amazon AWS: RDS, EC2, Route53, SNS, SES, S3, ELB and AutoScale Groups.
+* Game Development with Unity, Godot and PyGame.
+* DevOps for Linux Environments with Python, Ansible, Terraform, Docker, Sup (pressly), Fabric and Shellscripting.
+* Experiencing Scaling Microservices on AWS.
 
 ## Opensource Contributions
 The list of opensource project I had contributed.
-- [Gunicorn](https://github.com/) - Bug reporter and benchmarking tests for gunicorn web container for wsgi applications.  
-- [Marimba POS] (https://github.com/emanuelcds/marimba-pos) - Opensourced the Marimba point of sale software developed with Ionic Framework.  
-- [Asset Bundle] (https://github.com/emanuelcds/assetbundle) - Open comunity to find talents to develop assets for your games.  
 - [Circle CI Github Submodules] (https://github.com/emanuelcds/circle-github-submodules) - Integration of multiple github hosted submodules to trigger builds on the main project at circle-ci.  
-- [Django Tenant Schemas] (https://github.com/bernardopires/django-tenant-schemas) - Multi tenancy support for Django using PostgreSQL schemas.  
 - [Angular Country Picker] (https://github.com/contentools/angular-country-picker) - AngularJS directive to generate a list of countries as options of the select element.  
-
-## Contribution Status
-This is the sum of my contribution status counting opensource and private projects from Apr 14th 2015 to Apr 14th 2016.
-![stats 2016](github_contributions_apr_2016.png)
-
+- [Zaiper's Django Rest Hooks] (https://github.com/zapier/django-rest-hooks) - Django web-hook subscriptions for your apps.
 
 ## Projects
 This is the list of project I have developed in the last five years. This list is frequently updated.
 
 ### Contentools Platform
-Contractor: [Contentools](http://contentools.com) (Co-founder and CTO)  
+Contractor: [Contentools](http://contentools.com)  
 > All in one content marketing platform that delivers the best experience in content production, custom workflows, content production, team management, custom roles
 > and publishing automation.  
 
-Tech Stack: AngularJS, Bootstrap, Django, Tastypie and Multi-Tenant achitecture using PostgreSQL Schemas.  
+Tech Stack: AngularJS 1.5, Bootstrap 3, Python 3.4, Django 1.9, Tastypie and Multi-Tenant achitecture using PostgreSQL Schemas.  
 [Contentools Platform](https://go.contentools.com/signup)
 
 ### Marimba Gaming Pull-Tabs System
-Contractor: Self-Employed (Co-founder)  
+Contractor: Self-Employed  
 > Video Lottery system developed aiming the Alaska, Virginia and Minnesota markets. Developed game math sheets (probabilitics), games, game lobby, Point of Sale and REST API.  
 
 Tech Stack: Godot Engine for the Games, Python with SciPy and Google Spreadsheets for Game Mathematics and Probabilistics, Python with Django and Restless for Point of Sale and Game REST API,
 AngularJS + Ionic + Apache Cordova for Point of Sale cross mobile and web version and Django Admin customizations for Administration Panel.  
 [Marimba Gaming](http://marimbagaming.com)  
-[Point of Sale](http://pulltabs.easylogic.com.br/)  
-[Admin Panel](http://pulltabs.easylogic.com.br/panel)  
-[HTML5 Games](http://comming.soon.html5.version)  
-
-### GameScope
-Contractor: Self-Employed (Co-founder)  
-> Besides it is a proof of concept in progress, the system targets to capture sensitive data of
-user behavior, monitoring metrics and screen actions, assisting decision making in games for 
-Online casinos, VLT and Class II games.  
-
-Tech Stack: Pure Javascript for monitoring canvas render context and pushing events, ffmpeg for video encoding, Direct3D and OpenGL for gathering context buffers
-on standalone games, AngularJS with ngMaterial for the metrics and statistics panel, Django 1.9 and Django Channels for realtime communication.  
-[GameScope Website](http://gamescope.co)  
-
 
 ### Konviva LMS
-Contractor: [iLog Technology](http://ilog.com.br) (Senior Software Engineer)  
+Contractor: [iLog Technology](http://ilog.com.br)  
 > Learning management system built by iLog to assist corporate universities and online courses in brazilian market. Developed the conference room system for online realtime chat and presentations.  
 
 Tech Stack: Javascript, Java and C++ with AngularJS, Bootstrap, NodeJS, Express, Socket.IO, Lynckia Licode, WebRTC API, Mongoose and SpringMVC.  
 [Konviva LMS](http://konviva.com.br)
 
-
 ### Email Manager
-Contractor: [eCentry Technologies](http://ecentry.com.br) (Technical Lead)  
+Contractor: [eCentry Technologies](http://ecentry.com.br)  
 > Email marketing and massive mailing dispatcher SaaS platform. Currently called Maildocker.
 
 Tech Stack: AngularJS, Django, Tastypie and Django-Celery with RabbitMQ for asynchronous email delivery.  
-[Maildocker](http://maildocker.com)
-
+[EmailManager](http://emailmanager.com)
 
 ### Shake and Stir
-Contractor: [Side Games Ltd](http://sidegamesltd.com) (Freelancer Software Developer)  
+Contractor: [Side Games Ltd](http://sidegamesltd.com)  
 > Game and Server made for SideGames Ltd, an Israel based company with business in USA Gaming market.  
 
 TechStack: Javascript and PHP with WebGL Shaders, PlayCanvas Framework, SlimFramework, PDO and MySQL.  
@@ -100,7 +73,7 @@ TechStack: Javascript and PHP with WebGL Shaders, PlayCanvas Framework, SlimFram
 
 
 ### NorthStar Gaming Platform
-Contractor: [Vesta Incubator](https://vestaincubator.com) (Managing Director of Platform)
+Contractor: [Vesta Incubator](https://vestaincubator.com)  
 > VLT platform for Minnesota. Requirements extracted from Gambling Comission Board regulations.
 > Developed a set of tools to operate Electronic Linked Bingos and Electronic Pull Tabs, including 
 > one bingo game, a point of sale and the back office for software distributors.  
@@ -111,8 +84,8 @@ Ruby on Rails 3 with PostgreSQL and Devise for Software Distributor's Web Panel.
 
 
 ### Halo and Frontier Platforms
-Contractor: [Vesta Incubator](http://vestaincubator.com) (Managing Director of Platform)
-> Sweepstakes and Class III Casino Platforms for Tampa County, North Carolina, Florida and LATAM markets.
+Contractor: [Vesta Incubator](http://vestaincubator.com)  
+> Sweepstakes and Class III Casino Platforms for Tampa county, North Carolina, Florida and LATAM markets.
 
 TechStack: Proprietary engine developed in C++ with OpenGL/OpenAL and embedded Lua, GameServer
 developed with C++, ZeroMQ, QT Framework 4.8 and LibBoost, MySQL for Local Servers and Postgres for
@@ -123,7 +96,7 @@ over Linux kernel and Ruby on Rails for NOC and Web Reporting panels.
 
 
 ### EXOS - The Experience Operating System
-Contractor: [Sábia Experience](http://sabiax.com.br) (Analyst Developer)  
+Contractor: [Sábia Experience](http://sabiax.com.br)  
 > Software Development Kit to create games and interactive experiences using javascript, flash, C# and
 python running over EXOS system (developed by Sabia Experience).  
 
